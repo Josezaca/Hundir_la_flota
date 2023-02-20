@@ -1,6 +1,7 @@
 Hundir_la_flota
 Adaptación  del juego de mesa hundir la flota a pyhton
-#Proyecto
+
+Proyecto
 Descripción:
 
 El juego consiste en traer toda la información del juego clásico de hundir la flota y aplicarla en Python para generar una experiencia similar.
